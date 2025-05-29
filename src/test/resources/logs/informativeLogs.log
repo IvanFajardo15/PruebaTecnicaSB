@@ -1,0 +1,32 @@
+15:36:37.306 INFO  AUTOMATION - Before: Ingresar datos de registro de diferentes usuarios del sistema
+15:36:42.582 INFO  AUTOMATION - Esperando que cargue la página RegisterPage
+15:36:42.631 INFO  AUTOMATION - La página RegisterPage ha cargado satisfactoriamente
+15:36:42.632 INFO  AUTOMATION - Rellenando el nombre
+15:36:42.779 INFO  AUTOMATION - Rellenando el apellido
+15:36:42.898 INFO  AUTOMATION - Rellenando el correo
+15:36:43.053 INFO  AUTOMATION - Rellenando el telefono
+15:36:43.134 INFO  AUTOMATION - Rellenando el genero
+15:36:43.174 INFO  AUTOMATION - Dando click en el boton de submit
+15:36:43.256 INFO  AUTOMATION - Verificando que los datos se hayan registrado de manera correcta
+15:36:43.349 INFO  AUTOMATION - After: Ingresar datos de registro de diferentes usuarios del sistema Status: PASSED
+15:36:43.605 INFO  AUTOMATION - Before: Ingresar datos de registro de diferentes usuarios del sistema
+15:36:48.903 INFO  AUTOMATION - Esperando que cargue la página RegisterPage
+15:36:48.930 INFO  AUTOMATION - La página RegisterPage ha cargado satisfactoriamente
+15:36:48.930 INFO  AUTOMATION - Rellenando el nombre
+15:36:49.012 INFO  AUTOMATION - Rellenando el apellido
+15:36:49.070 INFO  AUTOMATION - Rellenando el correo
+15:36:49.154 INFO  AUTOMATION - Rellenando el telefono
+15:36:49.216 INFO  AUTOMATION - Rellenando el genero
+15:36:49.256 INFO  AUTOMATION - Dando click en el boton de submit
+15:36:49.354 INFO  AUTOMATION - Verificando que los datos se hayan registrado de manera correcta
+15:36:49.466 INFO  AUTOMATION - After: Ingresar datos de registro de diferentes usuarios del sistema Status: PASSED
+15:36:49.730 INFO  AUTOMATION - Before: Ingresar formulario omitiendo campos obligatorios
+15:36:54.131 INFO  AUTOMATION - Esperando que cargue la página RegisterPage
+15:36:54.273 INFO  AUTOMATION - La página RegisterPage ha cargado satisfactoriamente
+15:36:54.274 INFO  AUTOMATION - Dando click en el boton de submit
+15:36:56.441 INFO  AUTOMATION - After: Ingresar formulario omitiendo campos obligatorios Status: PASSED
+15:36:56.626 INFO  AUTOMATION - Before: Ingresar formulario usando formato de correo no valido
+15:37:01.510 INFO  AUTOMATION - Esperando que cargue la página RegisterPage
+15:37:01.545 INFO  AUTOMATION - La página RegisterPage ha cargado satisfactoriamente
+15:37:01.673 INFO  AUTOMATION - Dando click en el boton de submit
+15:37:03.757 INFO  AUTOMATION - After: Ingresar formulario usando formato de correo no valido Status: PASSED
